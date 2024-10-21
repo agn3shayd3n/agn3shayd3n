@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Agnès!
 
-💻  Multidisciplinary technologist: Music producer, DJ, filmmaker, and programmer.<br/>
-👩🏻‍💻  Software Engineer sharing my tech journey at 42Madrid.<br/>
+👩🏻‍💻  Multidisciplinary technologist: Music producer, DJ, filmmaker, and programmer.<br/>
+📚 Software Engineer sharing my tech journey at 42Madrid.<br/>
 💭  Currently learning backend programming, cybersecurity and AI.<br/>
 
 🌟  [Arts & Tech portfolio](https://agneshayden.carrd.co)<br/>
