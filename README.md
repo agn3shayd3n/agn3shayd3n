@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <sub><i>Rendered with my custom 3D wireframe engine in C — FdF project (42 School)</i></sub>
+  <sub><i>Rendered with my custom 3D wireframe engine in C — FdF project (42)</i></sub>
 </p>
 
 ## 👋 Hi, I'm Agnès!
