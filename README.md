@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/agn3shayd3n/fdf-linux/blob/main/img/a.jpg" alt="FdF Project Preview" width="600">
+  <img src="https://github.com/agn3shayd3n/fdf-linux/blob/main/img/a.jpg" alt="FdF Project Preview" width="700">
 </p>
 
 <p align="center">
