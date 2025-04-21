@@ -15,7 +15,9 @@
 💭 Currently exploring **backend development**, **cybersecurity**, and **AI**.<br/>
 
 <p align="center">
-  <a href="https://agneshayden.carrd.co" target="_blank"><strong>🌟 Arts & Tech Portfolio 🌟</strong></a>
+  <a href="https://agneshayden.carrd.co" target="_blank" rel="noopener noreferrer">
+    <strong>🌟 Arts & Tech Portfolio 🌟</strong>
+  </a>
 </p>
 
 ---
