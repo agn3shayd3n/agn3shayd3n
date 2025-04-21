@@ -1,4 +1,10 @@
-![Screenshot 3](https://github.com/agn3shayd3n/fdf-linux/blob/main/img/a.jpg) 
+<p align="center">
+  <img src="https://github.com/agn3shayd3n/fdf-linux/blob/main/img/a.jpg" alt="FdF Project Preview" width="600">
+</p>
+
+<p align="center">
+  <sub><i>Rendered with my custom 3D wireframe engine in C — FdF project (42 School)</i></sub>
+</p>
 
 ## 👋 Hi, I'm Agnès!
 
