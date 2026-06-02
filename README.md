@@ -10,12 +10,12 @@
 
 <br/>
 
-🎧 **Multidisciplinary technologist**: Music producer, DJ, filmmaker, and programmer.<br/>
+🎧 **Multidisciplinary technologist**: Visual artist and programmer.<br/>
 📚 **Software Engineer** sharing my tech journey at **42Madrid**.<br/>
 💭 Currently exploring **backend development**, **cybersecurity**, and **AI**.<br/>
 
 <p align="center">
-  <a href="https://agneshayden.carrd.co" target="_blank"
+  <a href="https://www.agneshayden.com" target="_blank"
     <strong>🌟 Arts & Tech Portfolio 🌟</strong>
   </a>
 </p>
@@ -29,6 +29,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br/>
@@ -48,9 +49,6 @@
 ### 🌐 Socials
 
 <p align="center">
-  <a href="https://instagram.com/satur4ted" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/agnes-hayden/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
