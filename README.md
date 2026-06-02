@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.agneshayden.com" target="_blank"
-    <strong>🌟 Arts & Tech Portfolio 🌟</strong>
+    <strong>Arts & Tech Portfolio</strong>
   </a>
 </p>
 
